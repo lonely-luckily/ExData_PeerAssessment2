@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# R
-=======
-ExData_PeerAssessment2
-======================
+# Peer Assessment 2 for Exploratory Data Analysis
 
-Peer Assessment 2 for Exploratory Data Analysis
->>>>>>> 00ceb25ba620ca6517e674c288f685a6a7de7b61
+For coorect work of the scripts, please, ensure that you unpack both of the files from the archive to the your working directory.
+
